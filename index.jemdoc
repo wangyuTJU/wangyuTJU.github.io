@@ -1,0 +1,80 @@
+# jemdoc: nofooter,title{Wang Yu（王煜）| Tianjin University（天津大学）}
+==Wang Yu
+
+~~~
+{}{img_left}{pic/head.JPG}{alt text}{132}{180}{http://wangyuTJU.github.io}
+Ph.D., Assistant research felllow \n School of Artificial Intelligence, \n[http://cic.tju.edu.cn/ College of Intelligence and Computing (CIC)], \n[http://www.tju.edu.cn/ Tianjin University (TJU)]\n
+No. 135 Yaguan Road, Jinnan District, \n
+Tianjin City, P.R. China. \n 
+E-mail: /wangyu_ AT tju.edu.cn/ \n
+~~~
+
+== News!
+\[2021\/06\]~~\"{{<u>A recursive regularization based feature selection framework for hierarchical classification</u>}}\" has been published on *IEEE Transactions on Knowledge and Data Engineering (TKDE)*. \n
+\[2021\/05\]~~\"{{<u>Get to the point: content classification of animated graphics interchange formats with key-frame attention</u>}}\" has been accepted by *IEEE International Conference on Image Processing (ICIP)*. \n
+\[2021\/04\]~~"{{<u>Self-paced hierarchical metric learning</u>}}\" has been accepted by *International Journal of Machine Learning and Cybernetics (JMLC)*.\n
+\[2021\/02\]~~"{{<u>Hierarchical semantic risk minimization for large-scale classification</u>}}\" has been accepted by *IEEE Transactions on Cybernetics (TCYB)*.\n
+\[2021\/02\]~~{{<u>Greetings! Five undergraduate students join my team.</u>}} \n
+
+== Bio
+Wang Yu (王煜) is currently an assistant research fellow at Tianjin University (TJU), China. His research lies in data mining and machine learning in artificial intelligence, including multi-granularity classification, open-set recognition, incremental learning, and their applications to image classification and fault diagnosis of large-scale mechinery. He has published many papers in highly regarded journals and conferences such as IEEE TFS, IEEE TCYB, IEEE TKDE, IEEE ICDM, etc.
+
+*\<span style=\"color: red\"\> Call for graduate and undergraduate students! Hope you are hardworking and have basic programming skills. I can offer detailed supervision for you and help construct a great career for you. Feel free to contact me via email. \<\/span\>*
+
+
+== Publication
+*Journal*:
+
+~~~
+{}{img_left}{indexpic/TCYB.png}{alt text}{280}{115}{indexpic/TCYB.png}
+\[*TCYB*\]~~\n{{<u>Hierarchical semantic risk minimization for large-scale classification</u>}} \n IEEE Transactions on Cybernetics (2021). \n *Yu Wang*, Zhou Wang, Qinghua Hu, Yucan Zhou, and Honglei Su. \n \[[https://ieeexplore.ieee.org/document/9380703/ Paper]\]
+~~~
+
+~~~
+{}{img_left}{indexpic/TKDE.png}{alt text}{280}{115}{indexpic/TKDE.png}
+\[*TKDE*\]~~\n{{<u>A recursive regularization based feature selection framework for hierarchical classification</u>}} \n IEEE Transactions on Knowledge and Data Engineering (2021). \n Hong Zhao, Qinghua Hu, Pengfei Zhu, *Yu Wang*, and Ping Wang. \n \[[https://ieeexplore.ieee.org/document/8939555?source=authoralert Paper]\] 
+~~~
+
+~~~
+{}{img_left}{indexpic/JMLC.png}{alt text}{280}{115}{indexpic/JMLC.png}
+\[*JMLC*\]~~\n{{<u>Self-paced hierarchical metric learning</u>}} \n International Journal of Machine Learning and Cybernetics (2021). \n Mohammed Ali Altaezi, Pengfei Zhu, Qinghua Hu, *Yu Wang*, Abdulrahman Al-badwi. \n \[[Paper To be released]\]
+~~~
+
+~~~
+{}{img_left}{indexpic/TFS.png}{alt text}{280}{115}{indexpic/TFS.png}
+\[*TFS*\]~~\n{{<u>Deep fuzzy tree for large-scale hierarchical visual classification</u>}} \n IEEE Transactions on Fuzzy Systems (2020). \n *Yu Wang*, Qinghua Hu, Pengfei Zhu, Linhao Li, Bingxu Lu, Jonathan G. Garibaldi, and Xianlin Li. \n \[[https://ieeexplore.ieee.org/document/8809246 Paper]\]
+~~~
+
+~~~
+{}{img_left}{indexpic/ch_ins.png}{alt text}{280}{115}{indexpic/ch_ins.png}
+\[*中国科学*\]~~\n{{<u>大规模分类任务的分层学习方法综述</u>}}. \n 中国科学：信息科学 (2018) \n 胡清华，*王煜*, 周玉灿，赵红，钱宇华，梁吉业. \n \[[https://www.sciengine.com/publisher/scp/journal/SSI/48/5/10.1360/N112017-00246?slug=fulltext Paper]\]
+~~~
+
+~~~
+{}{img_left}{indexpic/PR.png}{alt text}{280}{115}{indexpic/PR.png}
+\[*PR*\]~~\n{{<u>Deep super-class learning for long-tail distributed image classification</u>}} \n Pattern Recognition (2018). \n Yucan Zhou, Qinghua Hu, and *Yu Wang*. \n \[[https://www.sciencedirect.com/science/article/abs/pii/S0031320318300888 Paper]\]
+~~~
+
+
+*Conference*:
+
+~~~
+{}{img_left}{indexpic/ICIP.png}{alt text}{280}{115}{indexpic/ICIP.png}
+\[*ICIP*\]~~\n{{<u>Get to the point: content classification of animated graphics interchange formats with key-frame attention</u>}} \n IEEE International Conference on Image Processing (2021). \n Yongjuan Ma, *Yu Wang\**, Pengfei Zhu, Junwen Pan, Hong Shi. \n \[[Paper To be released]\]
+~~~
+
+~~~
+{}{img_left}{indexpic/ICDM.png}{alt text}{280}{115}{indexpic/ICDM.png}
+\[*ICDM*\]~~\n{{<u>Local Bayes risk minimization based stopping strategy for hierarchical classification</u>}} \n IEEE International Conference on Data Mining (2017). \n *Yu Wang*, Qinghua Hu, Yucan Zhou, Hong Zhao, Yuhua Qian, and Jiye Liang. \n \[[https://ieeexplore.ieee.org/document/8215524/ Paper]\]
+~~~
+
+== Service
+I serves as a reviewer of:
+- IEEE Transactions on Neural Networks and Learning Systems (TNNLS)
+- IEEE Transactions on Image Processing (TIP)
+- IEEE Transactions on Cybernetics (TCYB)
+- IEEE Internet of Things Journal (IoTJ)
+- IEEE Conference on Computer Vision and Pattern Recognition (CVPR)
+- IEEE International Conference on Computer Vision (ICCV)
+- etc
+
