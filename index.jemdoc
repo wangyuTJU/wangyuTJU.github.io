@@ -3,7 +3,7 @@
 
 ~~~
 {}{img_left}{indexpic/head.jpg}{alt text}{140}{180}{http://wangyuTJU.github.io}
-Ph.D, Assistant Professor \n [http://datasci.tju.edu.cn/ Tianjin Key Laboratory of Machine Learning], \n School of Artificial Intelligence, \n[http://cic.tju.edu.cn/ College of Intelligence and Computing], \n[http://www.tju.edu.cn/ Tianjin University (TJU)]\n
+Ph.D., Assistant Professor \n [http://datasci.tju.edu.cn/ Tianjin Key Laboratory of Machine Learning], \n School of Artificial Intelligence, \n[http://cic.tju.edu.cn/ College of Intelligence and Computing], \n[http://www.tju.edu.cn/ Tianjin University (TJU)]\n
 No. 135 Yaguan Road, Jinnan District, \n
 Tianjin City, P.R. China. \n 
 E-mail: /wangyu_ AT tju.edu.cn/ \n
@@ -14,12 +14,13 @@ E-mail: /wangyu_ AT tju.edu.cn/ \n
 \[2021\/05\]~~\"{{<u>Get to the point: content classification of animated graphics interchange formats with key-frame attention</u>}}\" has been accepted by *IEEE International Conference on Image Processing (ICIP)*. \n
 \[2021\/04\]~~"{{<u>Self-paced hierarchical metric learning</u>}}\" has been accepted by *International Journal of Machine Learning and Cybernetics (JMLC)*.\n
 \[2021\/02\]~~"{{<u>Hierarchical semantic risk minimization for large-scale classification</u>}}\" has been accepted by *IEEE Transactions on Cybernetics (TCYB)*.\n
+\[2021\/02\]~~{{<u>Greetings! Two master students join my team.</u>}} \n
 \[2021\/02\]~~{{<u>Greetings! Five undergraduate students join my team.</u>}} \n
 
 == Bio
-Wang Yu (王煜) is currently an assistant research fellow at Tianjin University (TJU), China. He received BA, ME, and Ph.D degree from Tianjin University. His supervisor was Prof. Qinghua Hu (胡清华). His research lies in data mining and machine learning in artificial intelligence, including multi-granularity classification, open-set recognition, incremental learning, and their applications to image classification and fault diagnosis of large-scale mechinery. He has published many papers in highly regarded journals and conferences such as IEEE TFS, IEEE TCYB, IEEE TKDE, IEEE ICDM, etc.
+Wang Yu (王煜) is currently an assistant research fellow at Tianjin University (TJU), China. He received BA, ME, and Ph.D degree from Tianjin University. His supervisor was Prof. Qinghua Hu (胡清华). His researches lie in data mining and machine learning in artificial intelligence, including multi-granularity classification, open-set recognition, incremental learning, and their applications to image classification and fault diagnosis of large-scale machinery. He has published many papers in highly regarded journals and conferences, such as IEEE TFS, IEEE TCYB, IEEE TKDE, IEEE ICDM, etc.
 
-*\<span style=\"color: blue\"\> Call for graduate and undergraduate students! Hope you are hardworking, determined, and have basic programming skills and mathematics knowledege. You can recerive detailed supervision on research and would have a promising career. Feel free to contact me via email. \<\/span\>*
+*\<span style=\"color: blue\"\> Call for graduate and undergraduate students! Hope you are hardworking, determined, and have basic programming skills and mathematics knowledege. You can receive detailed supervision on research and would have a promising career. Feel free to contact me via email. \<\/span\>*
 
 
 == Selected Publications
@@ -60,7 +61,7 @@ Wang Yu (王煜) is currently an assistant research fellow at Tianjin University
 
 ~~~
 {}{img_left}{indexpic/ICIP.png}{alt text}{280}{115}{indexpic/ICIP.png}
-\[*ICIP*\]~~\n{{<u>Get to the point: content classification of animated graphics interchange formats with key-frame attention</u>}} \n IEEE International Conference on Image Processing (2021). \n Yongjuan Ma, *Yu Wang\**, Pengfei Zhu, Junwen Pan, and Hong Shi. \n \[[Paper To be released]\]
+\[*ICIP*\]~~\n{{<u>Get to the point: content classification of animated graphics interchange formats with key-frame attention</u>}} \n IEEE International Conference on Image Processing (2021). \n Yongjuan Ma, *Yu Wang\**, Pengfei Zhu, Junwen Pan, and Hong Shi. \n \[[Paper To be released]\] \[[https://github.com/sweet-grapes/GIF-classification-with-key-frame-attention.git Code]\]
 ~~~
 
 ~~~
