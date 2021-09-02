@@ -10,6 +10,7 @@ E-mail: /wangyu_ AT tju.edu.cn/ \n
 ~~~
 
 == News!
+\[2021\/08\]~~\"{{<u>考虑多粒度类相关性的对比式开放集识别方法</u>}}\" has been accepted by *软件学报*. \n
 \[2021\/07\]~~\"{{<u>Coarse-to-fine: progressive knowledge transfer based multi-task convolutional neural network for intelligent larges-scale fault diagnosis</u>}}\" has been accepted by *IEEE Transactions on Neural Networks and Learning Systems (TNNLS)*. \n
 \[2021\/06\]~~\"{{<u>A recursive regularization based feature selection framework for hierarchical classification</u>}}\" has been published on *IEEE Transactions on Knowledge and Data Engineering (TKDE)*. \n
 \[2021\/05\]~~\"{{<u>Get to the point: content classification of animated graphics interchange formats with key-frame attention</u>}}\" has been accepted by *IEEE International Conference on Image Processing (ICIP)*. \n
@@ -29,8 +30,13 @@ Wang Yu (王煜) is currently an assistant research fellow at Tianjin University
 *Journal*:
 
 ~~~
+{}{img_left}{indexpic/jos.png}{alt text}{280}{115}{indexpic/jos.png}
+\[*软件学报*\]~~\n{{<u>考虑多粒度类相关性的对比式开放集识别方法</u>}} \n 软件学报 (2022). \n 朱鹏飞, 张琬迎, *王煜\**, 胡清华. \n \[[ To be released]\]
+~~~
+
+~~~
 {}{img_left}{indexpic/TNNLS.png}{alt text}{280}{115}{indexpic/TNNLS.png}
-\[*TNNLS*\]~~\n{{<u>Coarse-to-fine: progressive knowledge transfer based multi-task convolutional neural network for intelligent large-scale fault diagnosis</u>}} \n IEEE Transactions on Neural Networks and Learning Systems (2021). \n *Yu Wang*, Ruonan Liu, Di Lin, Dongyue Chen, Ping Li, Qinghua Hu, and C. L. Philip Chen. \n \[[To be released]\]
+\[*TNNLS*\]~~\n{{<u>Coarse-to-fine: progressive knowledge transfer based multi-task convolutional neural network for intelligent large-scale fault diagnosis</u>}} \n IEEE Transactions on Neural Networks and Learning Systems (2021). \n *Yu Wang*, Ruonan Liu, Di Lin, Dongyue Chen, Ping Li, Qinghua Hu, and C. L. Philip Chen. \n \[[ To be released]\]
 ~~~
 
 ~~~
