@@ -10,6 +10,7 @@ E-mail: /wangyu_ AT tju.edu.cn/ \n
 ~~~
 
 == News!
+\[2021\/12\]~~\"{{<u>Uncertainty instructed multi-granularity decision for large-scale hierarchical classification</u>}}\" has been accepted by *Information Sciences. \n
 \[2021\/08\]~~\"{{<u>考虑多粒度类相关性的对比式开放集识别方法</u>}}\" has been accepted by *软件学报*. \n
 \[2021\/07\]~~\"{{<u>Coarse-to-fine: progressive knowledge transfer based multi-task convolutional neural network for intelligent larges-scale fault diagnosis</u>}}\" has been accepted by *IEEE Transactions on Neural Networks and Learning Systems (TNNLS)*. \n
 \[2021\/06\]~~\"{{<u>A recursive regularization based feature selection framework for hierarchical classification</u>}}\" has been published on *IEEE Transactions on Knowledge and Data Engineering (TKDE)*. \n
@@ -45,23 +46,28 @@ Wang Yu (王煜) is currently an assistant research fellow at Tianjin University
 ~~~
 
 ~~~
-{}{img_left}{indexpic/TKDE.png}{alt text}{280}{115}{indexpic/TKDE.png}
-\[*TKDE*\]~~\n{{<u>A recursive regularization based feature selection framework for hierarchical classification</u>}} \n IEEE Transactions on Knowledge and Data Engineering (2021). \n Hong Zhao, Qinghua Hu, Pengfei Zhu, *Yu Wang*, and Ping Wang. \n \[[https://ieeexplore.ieee.org/document/8939555?source=authoralert Paper]\] 
-~~~
-
-~~~
-{}{img_left}{indexpic/JMLC.png}{alt text}{280}{115}{indexpic/JMLC.png}
-\[*JMLC*\]~~\n{{<u>Self-paced hierarchical metric learning</u>}} \n International Journal of Machine Learning and Cybernetics (2021). \n Mohammed Ali Altaezi, Pengfei Zhu, Qinghua Hu, *Yu Wang*, and Abdulrahman Al-badwi. \n \[[Paper To be released]\]
-~~~
-
-~~~
 {}{img_left}{indexpic/TFS.png}{alt text}{280}{115}{indexpic/TFS.png}
 \[*TFS*\]~~\n{{<u>Deep fuzzy tree for large-scale hierarchical visual classification</u>}} \n IEEE Transactions on Fuzzy Systems (2020). \n *Yu Wang*, Qinghua Hu, Pengfei Zhu, Linhao Li, Bingxu Lu, Jonathan G. Garibaldi, and Xianlin Li. \n \[[https://ieeexplore.ieee.org/document/8809246 Paper]\]
 ~~~
 
 ~~~
+{}{img_left}{indexpic/INS.png}{alt text}{280}{115}{indexpic/INS.png}
+\[*TFS*\]~~\n{{<u>Uncertainty instructed multi-granularity decision for large-scale hierarchical classification/u>}} \n Information Sciences (2022). \n *Yu Wang*, Qinghua Hu, Has Chen, and Yuhua Qian. \n \[[ To be released]\]
+~~~
+
+~~~
 {}{img_left}{indexpic/ch_ins.png}{alt text}{280}{115}{indexpic/ch_ins.png}
 \[*中国科学*\]~~\n{{<u>大规模分类任务的分层学习方法综述</u>}}. \n 中国科学：信息科学 (2018) \n 胡清华, *王煜*, 周玉灿, 赵红, 钱宇华, 梁吉业. \n \[[https://www.sciengine.com/publisher/scp/journal/SSI/48/5/10.1360/N112017-00246?slug=fulltext Paper]\]
+~~~
+
+~~~
+{}{img_left}{indexpic/JMLC.png}{alt text}{280}{115}{indexpic/JMLC.png}
+\[*JMLC*\]~~\n{{<u>Self-paced hierarchical metric learning</u>}} \n International Journal of Machine Learning and Cybernetics (2021). \n Mohammed Ali Altaezi, Pengfei Zhu, Qinghua Hu, *Yu Wang*, and Abdulrahman Al-badwi. \n \[[https://link.springer.com/article/10.1007/s13042-021-01336-2]\]
+~~~
+
+~~~
+{}{img_left}{indexpic/TKDE.png}{alt text}{280}{115}{indexpic/TKDE.png}
+\[*TKDE*\]~~\n{{<u>A recursive regularization based feature selection framework for hierarchical classification</u>}} \n IEEE Transactions on Knowledge and Data Engineering (2021). \n Hong Zhao, Qinghua Hu, Pengfei Zhu, *Yu Wang*, and Ping Wang. \n \[[https://ieeexplore.ieee.org/document/8939555?source=authoralert Paper]\] 
 ~~~
 
 ~~~
@@ -74,7 +80,7 @@ Wang Yu (王煜) is currently an assistant research fellow at Tianjin University
 
 ~~~
 {}{img_left}{indexpic/ICIP.png}{alt text}{280}{115}{indexpic/ICIP.png}
-\[*ICIP*\]~~\n{{<u>Get to the point: content classification of animated graphics interchange formats with key-frame attention</u>}} \n IEEE International Conference on Image Processing (2021). \n Yongjuan Ma, *Yu Wang\**, Pengfei Zhu, Junwen Pan, and Hong Shi. \n \[[Paper To be released]\] \[[https://github.com/sweet-grapes/GIF-classification-with-key-frame-attention.git Code]\]
+\[*ICIP*\]~~\n{{<u>Get to the point: content classification of animated graphics interchange formats with key-frame attention</u>}} \n IEEE International Conference on Image Processing (2021). \n Yongjuan Ma, *Yu Wang\**, Pengfei Zhu, Junwen Pan, and Hong Shi. \n \[[https://ieeexplore.ieee.org/document/9506230]\] \[[https://github.com/sweet-grapes/GIF-classification-with-key-frame-attention.git Code]\]
 ~~~
 
 ~~~
