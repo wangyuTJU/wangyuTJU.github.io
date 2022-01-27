@@ -15,7 +15,7 @@ E-mail: /wangyu_ AT tju.edu.cn/ \n
 \[2021\/07\]~~\"{{<u>Coarse-to-fine: progressive knowledge transfer based multi-task convolutional neural network for intelligent larges-scale fault diagnosis</u>}}\" has been accepted by *IEEE Transactions on Neural Networks and Learning Systems (TNNLS)*. \n
 \[2021\/06\]~~\"{{<u>A recursive regularization based feature selection framework for hierarchical classification</u>}}\" has been published on *IEEE Transactions on Knowledge and Data Engineering (TKDE)*. \n
 \[2021\/05\]~~\"{{<u>Get to the point: content classification of animated graphics interchange formats with key-frame attention</u>}}\" has been accepted by *IEEE International Conference on Image Processing (ICIP)*. \n
-\[2021\/05\]~~\"{{<u>I was invited by ChinaDaily to give a talk on "New era of intelligence in Tianjin" for the 5th World Intelligence Congress</u>}}\" .\n
+\[2021\/05\]~~\{{<u>I was invited by ChinaDaily to give a talk on "New era of intelligence in Tianjin" for the 5th World Intelligence Congress</u>}}\" .\n
 \[2021\/04\]~~"{{<u>Self-paced hierarchical metric learning</u>}}\" has been accepted by *International Journal of Machine Learning and Cybernetics (JMLC)*.\n
 \[2021\/02\]~~"{{<u>Hierarchical semantic risk minimization for large-scale classification</u>}}\" has been accepted by *IEEE Transactions on Cybernetics (TCYB).\n
 \[2021\/02\]~~{{Greetings! Two new master students join my team.}} \n
@@ -62,7 +62,7 @@ Wang Yu (王煜) is currently an assistant research fellow at Tianjin University
 
 ~~~
 {}{img_left}{indexpic/JMLC.png}{alt text}{280}{115}{indexpic/JMLC.png}
-\[*JMLC*\]~~\n{{<u>Self-paced hierarchical metric learning</u>}} \n International Journal of Machine Learning and Cybernetics (2021). \n Mohammed Ali Altaezi, Pengfei Zhu, Qinghua Hu, *Yu Wang*, and Abdulrahman Al-badwi. \n \[[https://link.springer.com/article/10.1007/s13042-021-01336-2]\]
+\[*JMLC*\]~~\n{{<u>Self-paced hierarchical metric learning</u>}} \n International Journal of Machine Learning and Cybernetics (2021). \n Mohammed Ali Altaezi, Pengfei Zhu, Qinghua Hu, *Yu Wang*, and Abdulrahman Al-badwi. \n \[[https://link.springer.com/article/10.1007/s13042-021-01336-2 Paper]\]
 ~~~
 
 ~~~
@@ -80,7 +80,7 @@ Wang Yu (王煜) is currently an assistant research fellow at Tianjin University
 
 ~~~
 {}{img_left}{indexpic/ICIP.png}{alt text}{280}{115}{indexpic/ICIP.png}
-\[*ICIP*\]~~\n{{<u>Get to the point: content classification of animated graphics interchange formats with key-frame attention</u>}} \n IEEE International Conference on Image Processing (2021). \n Yongjuan Ma, *Yu Wang\**, Pengfei Zhu, Junwen Pan, and Hong Shi. \n \[[https://ieeexplore.ieee.org/document/9506230]\] \[[https://github.com/sweet-grapes/GIF-classification-with-key-frame-attention.git Code]\]
+\[*ICIP*\]~~\n{{<u>Get to the point: content classification of animated graphics interchange formats with key-frame attention</u>}} \n IEEE International Conference on Image Processing (2021). \n Yongjuan Ma, *Yu Wang\**, Pengfei Zhu, Junwen Pan, and Hong Shi. \n \[[https://ieeexplore.ieee.org/document/9506230 Paper]\] \[[https://github.com/sweet-grapes/GIF-classification-with-key-frame-attention.git Code]\]
 ~~~
 
 ~~~
