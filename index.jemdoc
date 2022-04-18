@@ -10,6 +10,7 @@ E-mail: /wangyu_ AT tju.edu.cn/ \n
 ~~~
 
 == News!
+\[2022\/04\]~~{{Greetings! Five new undergraduate students join my team.}} \n
 \[2022\/04\]~~\"{{<u>Collaborative decision-reinforced self-supervision for attributed graph clustering</u>}}\" has been accepted by *IEEE Transactions on Neural Networks and Learning Systems (TNNLS)*. \n
 \[2022\/02\]~~\"{{<u>Latent heterogeneous graph network for incomplete multi-view learning</u>}}\" has been accepted by *IEEE Transactions on Multimedia (TMM)*. \n
 \[2021\/12\]~~\"{{<u>Uncertainty instructed multi-granularity decision for large-scale hierarchical classification</u>}}\" has been accepted by *Information Sciences*. \n
@@ -20,7 +21,6 @@ E-mail: /wangyu_ AT tju.edu.cn/ \n
 \[2021\/05\]~~I was invited by ChinaDaily to give a talk on \"{{<u>New era of intelligence in Tianjin</u>}}\" for the *5th World Intelligence Congress*.\n
 \[2021\/02\]~~\"{{<u>Hierarchical semantic risk minimization for large-scale classification</u>}}\" has been accepted by *IEEE Transactions on Cybernetics (TCYB)*.\n
 \[2021\/02\]~~{{Greetings! Two new master students join my team.}} \n
-\[2021\/02\]~~{{Greetings! Five new undergraduate students join my team.}} \n
 
 == Bio
 Wang Yu (王煜) is currently an assistant research fellow at Tianjin University (TJU), China. He received BA, ME, and Ph.D degree from Tianjin University. His supervisor was Prof. [http://cic.tju.edu.cn/faculty/huqinghua/index.html Hu Qinghua(胡清华)]. His researches lie in data mining and machine learning in artificial intelligence, including multi-granularity classification, open-set recognition, incremental learning, and their applications to image classification and fault diagnosis of large-scale machinery. He has published many papers in highly regarded journals and conferences, such as IEEE TFS, IEEE TNNLS, IEEE TCYB, IEEE TKDE, etc.
@@ -33,7 +33,7 @@ Wang Yu (王煜) is currently an assistant research fellow at Tianjin University
 
 ~~~
 {}{img_left}{indexpic/tnnls22.png}{alt text}{280}{115}{indexpic/tnnls22.png}
-\[*TNNLS*\]~~\n{{<u>Collaborative decision-reinforced self-supervision for attributed graph clustering</u>}} \n IEEE Transactions on Neural Networks and Learning Systems (2022). \n Pengfei Zhu, Jail Li, *Yu Wang\**, Bin Xiao, Shuai Zhao, Qinghua Hu. \n \[[ To appear]\]
+\[*TNNLS*\]~~\n{{<u>Collaborative decision-reinforced self-supervision for attributed graph clustering</u>}} \n IEEE Transactions on Neural Networks and Learning Systems (2022). \n Pengfei Zhu, Jail Li, *Yu Wang\**, Bin Xiao, Shuai Zhao, and Qinghua Hu. \n \[[ To appear]\]
 ~~~
 
 ~~~
@@ -43,12 +43,12 @@ Wang Yu (王煜) is currently an assistant research fellow at Tianjin University
 
 ~~~
 {}{img_left}{indexpic/TNNLS.png}{alt text}{280}{115}{indexpic/TNNLS.png}
-\[*TNNLS*\]~~\n{{<u>Coarse-to-fine: progressive knowledge transfer based multi-task convolutional neural network for intelligent large-scale fault diagnosis</u>}} \n IEEE Transactions on Neural Networks and Learning Systems (2021). \n *Yu Wang*, Ruonan Liu, Di Lin, Dongyue Chen, Ping Li, Qinghua Hu, and C. L. Philip Chen. \n \[[https://ieeexplore.ieee.org/document/9509331 Paper]\]
+\[*TNNLS*\]~~\n{{<u>Coarse-to-fine: progressive knowledge transfer based multi-task convolutional neural network for intelligent large-scale fault diagnosis</u>}} \n IEEE Transactions on Neural Networks and Learning Systems (2021). \n *Yu Wang*, Ruonan Liu, Di Lin, Dongyue Chen, Ping Li, Qinghua Hu, and C. L. Philip Chen. \n \[[https://ieeexplore.ieee.org/document/9509331 Paper]\] \n \[[https://github.com/armstrongwang20/PKT-MCNN Code]\]
 ~~~
 
 ~~~
 {}{img_left}{indexpic/tmm.png}{alt text}{280}{115}{indexpic/tmm.png}
-\[*TMM*\]~~\n{{<u>Latent heterogeneous graph network for incomplete multi-view learning</u>}} \n IEEE Transactions on Multimedia (2022). \n Pengfei Zhu, Xinjie Yao, *Yu Wang\**, Meng Cao, Binyuan Hui, Shuai Zhao, and Qinghua Hu. \n \[[https://ieeexplore.ieee.org/document/9721669 Paper]\]
+\[*TMM*\]~~\n{{<u>Latent heterogeneous graph network for incomplete multi-view learning</u>}} \n IEEE Transactions on Multimedia (2022). \n Pengfei Zhu, Xinjie Yao, *Yu Wang\**, Meng Cao, Binyuan Hui, Shuai Zhao, and Qinghua Hu. \n \[[https://ieeexplore.ieee.org/document/9721669 Paper]\]\n \[[https://github.com/yxjdarren/LHGN_TMM_2022 Code]\]
 ~~~
 
 ~~~
@@ -63,7 +63,7 @@ Wang Yu (王煜) is currently an assistant research fellow at Tianjin University
 
 ~~~
 {}{img_left}{indexpic/INS.png}{alt text}{280}{115}{indexpic/INS.png}
-\[*INS*\]~~\n{{<u>Uncertainty instructed multi-granularity decision for large-scale hierarchical classification</u>}} \n Information Sciences (2022). \n *Yu Wang*, Qinghua Hu, Hao Chen, and Yuhua Qian. \n \[[ To be released]\]
+\[*INS*\]~~\n{{<u>Uncertainty instructed multi-granularity decision for large-scale hierarchical classification</u>}} \n Information Sciences (2022). \n *Yu Wang*, Qinghua Hu, Hao Chen, and Yuhua Qian. \n \[[https://www.sciencedirect.com/science/article/abs/pii/S0020025521012305 Paper]\]
 ~~~
 
 ~~~
