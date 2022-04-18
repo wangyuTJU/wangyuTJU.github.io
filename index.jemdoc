@@ -43,12 +43,12 @@ Wang Yu (王煜) is currently an assistant research fellow at Tianjin University
 
 ~~~
 {}{img_left}{indexpic/TNNLS.png}{alt text}{280}{115}{indexpic/TNNLS.png}
-\[*TNNLS*\]~~\n{{<u>Coarse-to-fine: progressive knowledge transfer based multi-task convolutional neural network for intelligent large-scale fault diagnosis</u>}} \n IEEE Transactions on Neural Networks and Learning Systems (2021). \n *Yu Wang*, Ruonan Liu, Di Lin, Dongyue Chen, Ping Li, Qinghua Hu, and C. L. Philip Chen. \n \[[https://ieeexplore.ieee.org/document/9509331 Paper]\] \n \[[https://github.com/armstrongwang20/PKT-MCNN Code]\]
+\[*TNNLS*\]~~\n{{<u>Coarse-to-fine: progressive knowledge transfer based multi-task convolutional neural network for intelligent large-scale fault diagnosis</u>}} \n IEEE Transactions on Neural Networks and Learning Systems (2021). \n *Yu Wang*, Ruonan Liu, Di Lin, Dongyue Chen, Ping Li, Qinghua Hu, and C. L. Philip Chen. \n \[[https://ieeexplore.ieee.org/document/9509331 Paper]\] \[[https://github.com/armstrongwang20/PKT-MCNN Code]\]
 ~~~
 
 ~~~
 {}{img_left}{indexpic/tmm.png}{alt text}{280}{115}{indexpic/tmm.png}
-\[*TMM*\]~~\n{{<u>Latent heterogeneous graph network for incomplete multi-view learning</u>}} \n IEEE Transactions on Multimedia (2022). \n Pengfei Zhu, Xinjie Yao, *Yu Wang\**, Meng Cao, Binyuan Hui, Shuai Zhao, and Qinghua Hu. \n \[[https://ieeexplore.ieee.org/document/9721669 Paper]\]\n \[[https://github.com/yxjdarren/LHGN_TMM_2022 Code]\]
+\[*TMM*\]~~\n{{<u>Latent heterogeneous graph network for incomplete multi-view learning</u>}} \n IEEE Transactions on Multimedia (2022). \n Pengfei Zhu, Xinjie Yao, *Yu Wang\**, Meng Cao, Binyuan Hui, Shuai Zhao, and Qinghua Hu. \n \[[https://ieeexplore.ieee.org/document/9721669 Paper]\] \[[https://github.com/yxjdarren/LHGN_TMM_2022 Code]\]
 ~~~
 
 ~~~
@@ -70,12 +70,6 @@ Wang Yu (王煜) is currently an assistant research fellow at Tianjin University
 {}{img_left}{indexpic/ch_ins.png}{alt text}{280}{115}{indexpic/ch_ins.png}
 \[*中国科学*\]~~\n{{<u>大规模分类任务的分层学习方法综述</u>}}. \n 中国科学：信息科学 (2018) \n 胡清华, *王煜*, 周玉灿, 赵红, 钱宇华, 梁吉业. \n \[[https://www.sciengine.com/publisher/scp/journal/SSI/48/5/10.1360/N112017-00246?slug=fulltext Paper]\]
 ~~~
-
-~~~
-{}{img_left}{indexpic/JMLC.png}{alt text}{280}{115}{indexpic/JMLC.png}
-\[*JMLC*\]~~\n{{<u>Self-paced hierarchical metric learning</u>}} \n International Journal of Machine Learning and Cybernetics (2021). \n Mohammed Ali Altaezi, Pengfei Zhu, Qinghua Hu, *Yu Wang*, and Abdulrahman Al-badwi. \n \[[https://link.springer.com/article/10.1007/s13042-021-01336-2 Paper]\]
-~~~
-
 ~~~
 {}{img_left}{indexpic/TKDE.png}{alt text}{280}{115}{indexpic/TKDE.png}
 \[*TKDE*\]~~\n{{<u>A recursive regularization based feature selection framework for hierarchical classification</u>}} \n IEEE Transactions on Knowledge and Data Engineering (2021). \n Hong Zhao, Qinghua Hu, Pengfei Zhu, *Yu Wang*, and Ping Wang. \n \[[https://ieeexplore.ieee.org/document/8939555?source=authoralert Paper]\] 
@@ -85,6 +79,12 @@ Wang Yu (王煜) is currently an assistant research fellow at Tianjin University
 {}{img_left}{indexpic/PR.png}{alt text}{280}{115}{indexpic/PR.png}
 \[*PR*\]~~\n{{<u>Deep super-class learning for long-tail distributed image classification</u>}} \n Pattern Recognition (2018). \n Yucan Zhou, Qinghua Hu, and *Yu Wang*. \n \[[https://www.sciencedirect.com/science/article/abs/pii/S0031320318300888 Paper]\]
 ~~~
+
+~~~
+{}{img_left}{indexpic/JMLC.png}{alt text}{280}{115}{indexpic/JMLC.png}
+\[*JMLC*\]~~\n{{<u>Self-paced hierarchical metric learning</u>}} \n International Journal of Machine Learning and Cybernetics (2021). \n Mohammed Ali Altaezi, Pengfei Zhu, Qinghua Hu, *Yu Wang*, and Abdulrahman Al-badwi. \n \[[https://link.springer.com/article/10.1007/s13042-021-01336-2 Paper]\]
+~~~
+
 
 
 *Conference*:
