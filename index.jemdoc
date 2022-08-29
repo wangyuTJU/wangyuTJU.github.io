@@ -10,6 +10,7 @@ E-mail: /wangyu_ AT tju.edu.cn/ \n
 ~~~
 
 == News!
+\[2022\/08\]~~\"{{<u>Class-specific semantic reconstruction for open set recognition</u>}}\" has been accepted by *IEEE Transactions on Pattern Analysis and Machine Intelligence (TPAMI)*. \n
 \[2022\/06\]~~\"{{<u>Multi-granularity regularized re-balancing for class incremental learning</u>}}\" has been accepted by *IEEE Transactions on Knowledge and Data Engineering (TKDE)*. \n
 \[2022\/05\]~~\"{{<u>Multi-granularity episodic contrastive learning for few-shot learning</u>}}\" has been accepted by *Pattern Recognition (PR)*. \n
 \[2022\/04\]~~{{Greetings! Five new undergraduate students join my team.}} \n
@@ -25,7 +26,7 @@ E-mail: /wangyu_ AT tju.edu.cn/ \n
 \[2021\/02\]~~{{Greetings! Two new master students join my team.}} \n
 
 == Bio
-Wang Yu (王煜) is currently an assistant research fellow at Tianjin University (TJU), China. He received BA, ME, and Ph.D degree from Tianjin University. His supervisor was Prof. [http://cic.tju.edu.cn/faculty/huqinghua/index.html Hu Qinghua (胡清华)]. His researches lie in data mining and machine learning in artificial intelligence, including multi-granularity classification, open-set recognition, incremental learning, and their applications to image classification and fault diagnosis of complex systems. He has published many papers in highly regarded journals and conferences, such as IEEE TFS, IEEE TKDE, IEEE TNNLS, IEEE TCYB, etc.
+Wang Yu (王煜) is currently an assistant research fellow at Tianjin University (TJU), China. He received BA, ME, and Ph.D degree from Tianjin University. His supervisor was Prof. [http://cic.tju.edu.cn/faculty/huqinghua/index.html Hu Qinghua (胡清华)]. His researches lie in data mining and machine learning in artificial intelligence, including multi-granularity classification, open-set recognition, incremental learning, and their applications to image classification and fault diagnosis of complex systems. He has published many papers in highly regarded journals and conferences, such as IEEE TPAMI, IEEE TKDE, IEEE TNNLS, IEEE TCYB, etc.
 
 *\<span style=\"color: blue\"\> Call for g\"{{<uraduate and undergraduate students</u>}}\"! Hope you are hardworking, determined, and have basic programming skills and mathematics knowledge. You can receive detailed supervision on research and would have a promising career. Feel free to contact me via email. \<\/span\>*
 
@@ -33,8 +34,14 @@ Wang Yu (王煜) is currently an assistant research fellow at Tianjin University
 == Selected Publications
 *Journal*:
 ~~~
+{}{img_left}{indexpic/tpami22.png}{alt text}{280}{115}{indexpic/tpami22.png}
+\[*TPAMI* \<span style=\"color: blue\"\> CCF A\<\/span\>\]~~\n{{<u>Class-specific semantic reconstruction for open set recognition</u>}} \n IEEE Transactions on Pattern Analysis and Machine Intelligence (2022). \n Hongzhi Huang, *Yu Wang\** Qinghua Hu*, and Ming-Ming Cheng. \n \[[https://arxiv.org/pdf/2207.02158.pdf Paper]\] \[[https://github.com/xyzedd/CSSR Code]\]
+~~~
+
+
+~~~
 {}{img_left}{indexpic/tkde22.png}{alt text}{280}{115}{indexpic/tkde22.png}
-\[*TKDE* \<span style=\"color: blue\"\> CAS-JCR (中科院分区) Q1 Top\<\/span\>\]~~\n{{<u>Multi-granularity regularized re-balancing for class incremental learning</u>}} \n IEEE Transactions on Knowledge and Data Engineering (2022). \n Huitong Chen, *Yu Wang\**, and Qinghua Hu. \n \[[ To appear]\] \[[https://github.com/lilyht/CIL-MGRB Code]\]
+\[*TKDE* \<span style=\"color: blue\"\> CCF A\<\/span\>\]~~\n{{<u>Multi-granularity regularized re-balancing for class incremental learning</u>}} \n IEEE Transactions on Knowledge and Data Engineering (2022). \n Huitong Chen, *Yu Wang\**, and Qinghua Hu. \n \[[ To appear]\] \[[https://github.com/lilyht/CIL-MGRB Code]\]
 ~~~
 
 ~~~
