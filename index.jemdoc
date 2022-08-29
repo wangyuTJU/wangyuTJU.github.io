@@ -21,7 +21,6 @@ E-mail: /wangyu_ AT tju.edu.cn/ \n
 \[2021\/08\]~~\"{{<u>考虑多粒度类相关性的对比式开放集识别方法</u>}}\" has been accepted by *软件学报*. \n
 \[2021\/07\]~~\"{{<u>Coarse-to-fine: progressive knowledge transfer based multi-task convolutional neural network for intelligent larges-scale fault diagnosis</u>}}\" has been accepted by *IEEE Transactions on Neural Networks and Learning Systems (TNNLS)*. \n
 \[2021\/06\]~~\"{{<u>A recursive regularization based feature selection framework for hierarchical classification</u>}}\" has been published on *IEEE Transactions on Knowledge and Data Engineering (TKDE)*. \n
-\[2021\/05\]~~\"{{<u>Get to the point: content classification of animated graphics interchange formats with key-frame attention</u>}}\" has been accepted by *IEEE International Conference on Image Processing (ICIP)*. \n
 \[2021\/05\]~~I was invited by ChinaDaily to give a talk on \"{{<u>New era of intelligence in Tianjin</u>}}\" for the *5th World Intelligence Congress*.\n
 \[2021\/02\]~~\"{{<u>Hierarchical semantic risk minimization for large-scale classification</u>}}\" has been accepted by *IEEE Transactions on Cybernetics (TCYB)*.\n
 
@@ -41,12 +40,12 @@ Wang Yu (王煜) is currently an assistant research fellow at Tianjin University
 
 ~~~
 {}{img_left}{indexpic/tkde22.png}{alt text}{280}{115}{indexpic/tkde22.png}
-\[*TKDE* \<span style=\"color: blue\"\> CCF A\<\/span\>\]~~\n{{<u>Multi-granularity regularized re-balancing for class incremental learning</u>}} \n IEEE Transactions on Knowledge and Data Engineering (2022). \n Huitong Chen, *Yu Wang\**, and Qinghua Hu. \n \[[ To appear]\] \[[https://github.com/lilyht/CIL-MGRB Code]\]
+\[*TKDE* \<span style=\"color: blue\"\> CCF A\<\/span\>\]~~\n{{<u>Multi-granularity regularized re-balancing for class incremental learning</u>}} \n IEEE Transactions on Knowledge and Data Engineering (2022). \n Huitong Chen, *Yu Wang\**, and Qinghua Hu. \n \[[https://arxiv.org/pdf/2206.15189.pdf Paper]\] \[[https://github.com/lilyht/CIL-MGRB Code]\]
 ~~~
 
 ~~~
 {}{img_left}{indexpic/tnnls22.png}{alt text}{280}{115}{indexpic/tnnls22.png}
-\[*TNNLS* \<span style=\"color: blue\"\> CAS-JCR Q1 Top\<\/span\>\]~~\n{{<u>Collaborative decision-reinforced self-supervision for attributed graph clustering</u>}} \n IEEE Transactions on Neural Networks and Learning Systems (2022). \n Pengfei Zhu, Jail Li, *Yu Wang\**, Bin Xiao, Shuai Zhao, and Qinghua Hu. \n \[[https://ieeexplore.ieee.org/document/9777842 Paper]\] \[[https://github.com/Jillian555/TNNLS_CDRS Code]\]
+\[*TNNLS* \<span style=\"color: blue\"\> CAS-JCR (中科院分区) Q1 Top\<\/span\>\]~~\n{{<u>Collaborative decision-reinforced self-supervision for attributed graph clustering</u>}} \n IEEE Transactions on Neural Networks and Learning Systems (2022). \n Pengfei Zhu, Jail Li, *Yu Wang\**, Bin Xiao, Shuai Zhao, and Qinghua Hu. \n \[[https://ieeexplore.ieee.org/document/9777842 Paper]\] \[[https://github.com/Jillian555/TNNLS_CDRS Code]\]
 ~~~
 
 ~~~
