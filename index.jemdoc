@@ -31,7 +31,7 @@ Wang Yu (王煜) is currently an assistant research fellow at Tianjin University
 
 
 == Selected Publications
-*Journal*:
+
 ~~~
 {}{img_left}{indexpic/tpami22.png}{alt text}{280}{115}{indexpic/tpami22.png}
 \[*TPAMI* \<span style=\"color: blue\"\> CCF A\<\/span\>\]~~\n{{<u>Class-specific semantic reconstruction for open set recognition</u>}} \n IEEE Transactions on Pattern Analysis and Machine Intelligence (2022). \n Hongzhi Huang, *Yu Wang\** Qinghua Hu*, and Ming-Ming Cheng. \n \[[https://arxiv.org/pdf/2207.02158.pdf Paper]\] \[[https://github.com/xyzedd/CSSR Code]\]
@@ -98,15 +98,6 @@ Wang Yu (王煜) is currently an assistant research fellow at Tianjin University
 ~~~
 {}{img_left}{indexpic/PR.png}{alt text}{280}{115}{indexpic/PR.png}
 \[*PR* \<span style=\"color: blue\"\>CAS-JCR Q1 Top\<\/span\>\]~~\n{{<u>Deep super-class learning for long-tail distributed image classification</u>}} \n Pattern Recognition (2018). \n Yucan Zhou, Qinghua Hu, and *Yu Wang*. \n \[[https://www.sciencedirect.com/science/article/abs/pii/S0031320318300888 Paper]\]
-~~~
-
-
-
-*Conference*:
-
-~~~
-{}{img_left}{indexpic/ICIP.png}{alt text}{280}{115}{indexpic/ICIP.png}
-\[*ICIP* \<span style=\"color: blue\"\>CCF C\<\/span\>\]~~\n{{<u>Get to the point: content classification of animated graphics interchange formats with key-frame attention</u>}} \n IEEE International Conference on Image Processing (2021). \n Yongjuan Ma, *Yu Wang\**, Pengfei Zhu, Junwen Pan, and Hong Shi. \n \[[https://ieeexplore.ieee.org/document/9506230 Paper]\] \[[https://github.com/sweet-grapes/GIF-classification-with-key-frame-attention.git Code]\]
 ~~~
 
 ~~~
