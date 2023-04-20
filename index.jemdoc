@@ -10,14 +10,16 @@ E-mail: /wang.yu AT tju.edu.cn/ \n
 ~~~
 
 == News!
-\[2023\/01\]~~\"{{<u>Building hierarchical class structures for extreme multi-class learning</u>}}\" has been accepted by *International Journal of Machine Learning and Cybernetics (JMLC)*. \n
+\[2023\/06\]~~Our team has won the *champion of CVPR 2023 Open World Object Discovery Challenge*. \n
+\[2023\/06\]~~Our team has won the *runner-up of CVPR 2023 Continual Learning Challenge*. \n
+\[2022\/08\]~~\"{{<u>Building hierarchical class structures for extreme multi-class learning</u>}}\"  won the best student paper award in *CGCKD 2022*. \n
+\[2023\/04\]~~\"{{<u>Class-specific semantic reconstruction for open set recognition</u>}}\" has been published on *IEEE Transactions on Pattern Analysis and Machine Intelligence (TPAMI)*. \n
+\[2023\/04\]~~\"{{<u>Multi-granularity regularized re-balancing for class incremental learning</u>}}\" has been published on *IEEE Transactions on Knowledge and Data Engineering (TKDE)*. \n
+\[2023\/02\]~~\"{{<u>Hierarchical semantic risk minimization for large-scale classification</u>}}\" has been published on *IEEE Transactions on Cybernetics (TCYB)*.\n
 \[2022\/12\]~~\"{{<u>Robust multi-drone multi-target tracking to resolve target occlusion: A benchmark</u>}}\" has been accepted by *IEEE Transactions on Multimedia (TMM)*. \n
 \[2022\/10\]~~\"{{<u>Learning dynamic compact memory embedding for deformable visual object tracking</u>}}\" has been accepted by *EEE Transactions on Neural Networks and Learning Systems (TNNLS)*. \n
-\[2022\/08\]~~\"{{<u>Class-specific semantic reconstruction for open set recognition</u>}}\" has been accepted by *IEEE Transactions on Pattern Analysis and Machine Intelligence (TPAMI)*. \n
 \[2022\/08\]~~\"{{<u>Building hierarchical class structures for extreme multi-class learning</u>}}\"  won the best student paper award in *CGCKD 2022*. \n
-\[2022\/06\]~~\"{{<u>Multi-granularity regularized re-balancing for class incremental learning</u>}}\" has been accepted by *IEEE Transactions on Knowledge and Data Engineering (TKDE)*. \n
 \[2022\/05\]~~\"{{<u>Multi-granularity episodic contrastive learning for few-shot learning</u>}}\" has been accepted by *Pattern Recognition (PR)*. \n
-\[2022\/04\]~~{{Greetings! Five new undergraduate students join my team.}} \n
 \[2022\/04\]~~\"{{<u>Collaborative decision-reinforced self-supervision for attributed graph clustering</u>}}\" has been accepted by *IEEE Transactions on Neural Networks and Learning Systems (TNNLS)*. \n
 \[2022\/02\]~~\"{{<u>Latent heterogeneous graph network for incomplete multi-view learning</u>}}\" has been accepted by *IEEE Transactions on Multimedia (TMM)*. \n
 \[2021\/12\]~~\"{{<u>Uncertainty instructed multi-granularity decision for large-scale hierarchical classification</u>}}\" has been accepted by *Information Sciences (INS)*. \n
@@ -25,7 +27,6 @@ E-mail: /wang.yu AT tju.edu.cn/ \n
 \[2021\/07\]~~\"{{<u>Coarse-to-fine: progressive knowledge transfer based multi-task convolutional neural network for intelligent large-scale fault diagnosis</u>}}\" has been accepted by *IEEE Transactions on Neural Networks and Learning Systems (TNNLS)*. \n
 \[2021\/06\]~~\"{{<u>A recursive regularization based feature selection framework for hierarchical classification</u>}}\" has been published on *IEEE Transactions on Knowledge and Data Engineering (TKDE)*. \n
 \[2021\/05\]~~I was invited by ChinaDaily to give a talk on \"{{<u>New era of intelligence in Tianjin</u>}}\" for the *5th World Intelligence Congress*.\n
-\[2021\/02\]~~\"{{<u>Hierarchical semantic risk minimization for large-scale classification</u>}}\" has been accepted by *IEEE Transactions on Cybernetics (TCYB)*.\n
 
 == Bio
 Wang Yu (王煜) is currently an assistant professor at Tianjin University (TJU) and Tianjin Key Laboratory of Machine Learning led by Prof. [http://cic.tju.edu.cn/faculty/huqinghua/index.html Hu Qinghua (胡清华)]. He received BA, ME, and Ph.D degree from Tianjin University. His researches lie in data mining and machine learning in artificial intelligence, including multi-granularity classification, open-set recognition, incremental learning, and their applications to image classification and fault diagnosis of complex systems. He has published many papers in highly regarded journals and conferences, such as IEEE TPAMI, IEEE TKDE, IEEE TNNLS, IEEE TCYB, etc.
@@ -37,19 +38,31 @@ Wang Yu (王煜) is currently an assistant professor at Tianjin University (TJU)
 
 ~~~
 {}{img_left}{indexpic/tpami22.png}{alt text}{280}{115}{indexpic/tpami22.png}
-\[*TPAMI* \<span style=\"color: blue\"\> CCF A\<\/span\>\]~~\n{{<u>Class-specific semantic reconstruction for open set recognition</u>}} \n IEEE Transactions on Pattern Analysis and Machine Intelligence (2022). \n Hongzhi Huang, *Yu Wang\** Qinghua Hu*, and Ming-Ming Cheng. \n \[[https://arxiv.org/pdf/2207.02158.pdf Paper]\] \[[https://github.com/xyzedd/CSSR Code]\]
+\[*TPAMI* \<span style=\"color: blue\"\> CCF A\<\/span\>\]~~\n{{<u>Class-specific semantic reconstruction for open set recognition</u>}} \n IEEE Transactions on Pattern Analysis and Machine Intelligence (2023). \n Hongzhi Huang, *Yu Wang\** Qinghua Hu*, and Ming-Ming Cheng. \n \[[https://arxiv.org/pdf/2207.02158.pdf Paper]\] \[[https://github.com/xyzedd/CSSR Code]\]
 ~~~
 
 
 ~~~
 {}{img_left}{indexpic/tkde22.png}{alt text}{280}{115}{indexpic/tkde22.png}
-\[*TKDE* \<span style=\"color: blue\"\> CCF A\<\/span\>\]~~\n{{<u>Multi-granularity regularized re-balancing for class incremental learning</u>}} \n IEEE Transactions on Knowledge and Data Engineering (2022). \n Huitong Chen, *Yu Wang\**, and Qinghua Hu. \n \[[https://arxiv.org/pdf/2206.15189.pdf Paper]\] \[[https://github.com/lilyht/CIL-MGRB Code]\]
+\[*TKDE* \<span style=\"color: blue\"\> CCF A\<\/span\>\]~~\n{{<u>Multi-granularity regularized re-balancing for class incremental learning</u>}} \n IEEE Transactions on Knowledge and Data Engineering (2023). \n Huitong Chen, *Yu Wang\**, and Qinghua Hu. \n \[[https://arxiv.org/pdf/2206.15189.pdf Paper]\] \[[https://github.com/lilyht/CIL-MGRB Code]\]
 ~~~
+
+~~~
+{}{img_left}{indexpic/TCYB.png}{alt text}{280}{115}{indexpic/TCYB.png}
+\[*TCYB* \<span style=\"color: blue\"\>CAS-JCR Q1 Top\<\/span\>\]~~\n{{<u>Hierarchical semantic risk minimization for large-scale classification</u>}} \n IEEE Transactions on Cybernetics (2023). \n *Yu Wang*, Zhou Wang, Qinghua Hu, Yucan Zhou, and Honglei Su. \n \[[https://ieeexplore.ieee.org/document/9380703/ Paper]\]
+~~~
+
 
 ~~~
 {}{img_left}{indexpic/tnnls22.png}{alt text}{280}{115}{indexpic/tnnls22.png}
 \[*TNNLS* \<span style=\"color: blue\"\> CAS-JCR (中科院分区) Q1 Top\<\/span\>\]~~\n{{<u>Collaborative decision-reinforced self-supervision for attributed graph clustering</u>}} \n IEEE Transactions on Neural Networks and Learning Systems (2022). \n Pengfei Zhu, Jialu Li, *Yu Wang\**, Bin Xiao, Shuai Zhao, and Qinghua Hu. \n \[[https://ieeexplore.ieee.org/document/9777842 Paper]\] \[[https://github.com/Jillian555/TNNLS_CDRS Code]\]
 ~~~
+
+~~~
+{}{img_left}{indexpic/TNNLS.png}{alt text}{280}{115}{indexpic/TNNLS.png}
+\[*TNNLS* \<span style=\"color: blue\"\>CAS-JCR Q1 Top\<\/span\>\]~~\n{{<u>Coarse-to-fine: progressive knowledge transfer based multi-task convolutional neural network for intelligent large-scale fault diagnosis</u>}} \n IEEE Transactions on Neural Networks and Learning Systems (2023). \n *Yu Wang*, Ruonan Liu, Di Lin, Dongyue Chen, Ping Li, Qinghua Hu, and C. L. Philip Chen. \n \[[https://ieeexplore.ieee.org/document/9509331 Paper]\] \[[https://github.com/armstrongwang20/PKT-MCNN Code]\]
+~~~
+
 
 ~~~
 {}{img_left}{indexpic/jos.png}{alt text}{280}{115}{indexpic/jos.png}
@@ -61,15 +74,6 @@ Wang Yu (王煜) is currently an assistant professor at Tianjin University (TJU)
 \[*TMM* \<span style=\"color: blue\"\>CAS-JCR Q1 Top\<\/span\>\]~~\n{{<u>Latent heterogeneous graph network for incomplete multi-view learning</u>}} \n IEEE Transactions on Multimedia (2022). \n Pengfei Zhu, Xinjie Yao, *Yu Wang\**, Meng Cao, Binyuan Hui, Shuai Zhao, and Qinghua Hu. \n \[[https://ieeexplore.ieee.org/document/9721669 Paper]\] \[[https://github.com/yxjdarren/LHGN_TMM_2022 Code]\]
 ~~~
 
-~~~
-{}{img_left}{indexpic/TNNLS.png}{alt text}{280}{115}{indexpic/TNNLS.png}
-\[*TNNLS* \<span style=\"color: blue\"\>CAS-JCR Q1 Top\<\/span\>\]~~\n{{<u>Coarse-to-fine: progressive knowledge transfer based multi-task convolutional neural network for intelligent large-scale fault diagnosis</u>}} \n IEEE Transactions on Neural Networks and Learning Systems (2021). \n *Yu Wang*, Ruonan Liu, Di Lin, Dongyue Chen, Ping Li, Qinghua Hu, and C. L. Philip Chen. \n \[[https://ieeexplore.ieee.org/document/9509331 Paper]\] \[[https://github.com/armstrongwang20/PKT-MCNN Code]\]
-~~~
-
-~~~
-{}{img_left}{indexpic/TCYB.png}{alt text}{280}{115}{indexpic/TCYB.png}
-\[*TCYB* \<span style=\"color: blue\"\>CAS-JCR Q1 Top\<\/span\>\]~~\n{{<u>Hierarchical semantic risk minimization for large-scale classification</u>}} \n IEEE Transactions on Cybernetics (2021). \n *Yu Wang*, Zhou Wang, Qinghua Hu, Yucan Zhou, and Honglei Su. \n \[[https://ieeexplore.ieee.org/document/9380703/ Paper]\]
-~~~
 
 ~~~
 {}{img_left}{indexpic/TFS.png}{alt text}{280}{115}{indexpic/TFS.png}
@@ -101,11 +105,6 @@ Wang Yu (王煜) is currently an assistant professor at Tianjin University (TJU)
 ~~~
 {}{img_left}{indexpic/PR.png}{alt text}{280}{115}{indexpic/PR.png}
 \[*PR* \<span style=\"color: blue\"\>CAS-JCR Q1 Top\<\/span\>\]~~\n{{<u>Deep super-class learning for long-tail distributed image classification</u>}} \n Pattern Recognition (2018). \n Yucan Zhou, Qinghua Hu, and *Yu Wang*. \n \[[https://www.sciencedirect.com/science/article/abs/pii/S0031320318300888 Paper]\]
-~~~
-
-~~~
-{}{img_left}{indexpic/ICDM.png}{alt text}{280}{115}{indexpic/ICDM.png}
-\[*ICDM* \<span style=\"color: blue\"\>CCF B\<\/span\>\]~~\n{{<u>Local Bayes risk minimization based stopping strategy for hierarchical classification</u>}} \n IEEE International Conference on Data Mining (2017, Oral). \n *Yu Wang*, Qinghua Hu, Yucan Zhou, Hong Zhao, Yuhua Qian, and Jiye Liang. \n \[[https://ieeexplore.ieee.org/document/8215524/ Paper]\]
 ~~~
 
 == Service
