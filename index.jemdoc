@@ -10,6 +10,13 @@ E-mail: /wang.yu AT tju.edu.cn/ \n
 ~~~
 
 == News!
+[2024\/02\]~~\"{{<u>Multi-view deep subspace clustering networks</u>}}\" has been published on *IEEE Transactions on Cybernetics (TCYB)*. \n
+[2024\/01\]~~\"{{<u>Exploring diverse representations for open set recognition</u>}}\" has been published on *Proceedings of the AAAI Conference on Artificial Intelligence (AAAI)*. \n
+[2024\/01\]~~\"{{<u>Every node is different: dynamically fusing self-supervised tasks for attributed graph clustering</u>}}\" has been published on *Proceedings of the AAAI Conference on Artificial Intelligence (AAAI)*. \n
+[2024\/01\]~~\"{{<u>Dynamic sub-graph distillation for robust semi-supervised continual learning</u>}}\" has been published on *Proceedings of the AAAI Conference on Artificial Intelligence (AAAI)*. \n
+[2023\/12\]~~\"{{<u>Few-shot learning with multi-granularity knowledge fusion and decision-making</u>}}\" has been published on *IEEE Transactions on Big Data (TBD)*. \n
+[2023\/12\]~~\"{{<u>Industrial big data analytical system in industrial cyber-physical systems based on coarse-to-fine deep network</u>}}\" has been published on *IEEE Transactions on Industrial Cyber-Physical Systems (TICPS)*. \n
+\[2023\/07\]~~\"{{<u>Coarse-to-fine: progressive knowledge transfer based multi-task convolutional neural network for intelligent large-scale fault diagnosis</u>}}\" has been published by *IEEE Transactions on Neural Networks and Learning Systems (TNNLS)*. \n
 \[2023\/06\]~~Our team has won the *championship of CVPR 2023 Open World Object Discovery Challenge*. \n
 \[2023\/06\]~~Our team has won the *runner up of CVPR 2023 Continual Learning Challenge*. \n
 \[2023\/04\]~~\"{{<u>Class-specific semantic reconstruction for open set recognition</u>}}\" has been published on *IEEE Transactions on Pattern Analysis and Machine Intelligence (TPAMI)*. \n
@@ -17,15 +24,6 @@ E-mail: /wang.yu AT tju.edu.cn/ \n
 \[2023\/02\]~~\"{{<u>Hierarchical semantic risk minimization for large-scale classification</u>}}\" has been published on *IEEE Transactions on Cybernetics (TCYB)*.\n
 \[2022\/12\]~~\"{{<u>Robust multi-drone multi-target tracking to resolve target occlusion: A benchmark</u>}}\" has been accepted by *IEEE Transactions on Multimedia (TMM)*. \n
 \[2022\/10\]~~\"{{<u>Learning dynamic compact memory embedding for deformable visual object tracking</u>}}\" has been accepted by *EEE Transactions on Neural Networks and Learning Systems (TNNLS)*. \n
-\[2022\/08\]~~\"{{<u>Building hierarchical class structures for extreme multi-class learning</u>}}\"  won the best student paper award in *CGCKD 2022*. \n
-\[2022\/05\]~~\"{{<u>Multi-granularity episodic contrastive learning for few-shot learning</u>}}\" has been accepted by *Pattern Recognition (PR)*. \n
-\[2022\/04\]~~\"{{<u>Collaborative decision-reinforced self-supervision for attributed graph clustering</u>}}\" has been accepted by *IEEE Transactions on Neural Networks and Learning Systems (TNNLS)*. \n
-\[2022\/02\]~~\"{{<u>Latent heterogeneous graph network for incomplete multi-view learning</u>}}\" has been accepted by *IEEE Transactions on Multimedia (TMM)*. \n
-\[2021\/12\]~~\"{{<u>Uncertainty instructed multi-granularity decision for large-scale hierarchical classification</u>}}\" has been accepted by *Information Sciences (INS)*. \n
-\[2021\/08\]~~\"{{<u>考虑多粒度类相关性的对比式开放集识别方法</u>}}\" has been accepted by *软件学报*. \n
-\[2021\/07\]~~\"{{<u>Coarse-to-fine: progressive knowledge transfer based multi-task convolutional neural network for intelligent large-scale fault diagnosis</u>}}\" has been accepted by *IEEE Transactions on Neural Networks and Learning Systems (TNNLS)*. \n
-\[2021\/06\]~~\"{{<u>A recursive regularization based feature selection framework for hierarchical classification</u>}}\" has been published on *IEEE Transactions on Knowledge and Data Engineering (TKDE)*. \n
-\[2021\/05\]~~I was invited by ChinaDaily to give a talk on \"{{<u>New era of intelligence in Tianjin</u>}}\" for the *5th World Intelligence Congress*.\n
 
 == Bio
 Wang Yu (王煜) is currently an associate professor at Tianjin University (TJU) and Tianjin Key Laboratory of Machine Learning led by Prof. [http://cic.tju.edu.cn/faculty/huqinghua/index.html Hu Qinghua (胡清华)]. He received BA, ME, and Ph.D degrees from Tianjin University. His researches lie in data mining and machine learning in artificial intelligence, including multi-granularity classification, open-set recognition, incremental learning, and their applications to image classification and fault diagnosis of complex systems. He has published many papers in highly regarded journals and conferences, such as IEEE TPAMI, IEEE TKDE, IEEE TNNLS, IEEE TCYB, etc.
