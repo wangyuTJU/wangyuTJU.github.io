@@ -22,8 +22,7 @@ E-mail: /wang.yu AT tju.edu.cn/ \n
 \[2023\/04\]~~\"{{<u>Class-specific semantic reconstruction for open set recognition</u>}}\" has been published on *IEEE Transactions on Pattern Analysis and Machine Intelligence (TPAMI)*. \n
 \[2023\/04\]~~\"{{<u>Multi-granularity regularized re-balancing for class incremental learning</u>}}\" has been published on *IEEE Transactions on Knowledge and Data Engineering (TKDE)*. \n
 \[2023\/02\]~~\"{{<u>Hierarchical semantic risk minimization for large-scale classification</u>}}\" has been published on *IEEE Transactions on Cybernetics (TCYB)*.\n
-\[2022\/12\]~~\"{{<u>Robust multi-drone multi-target tracking to resolve target occlusion: A benchmark</u>}}\" has been accepted by *IEEE Transactions on Multimedia (TMM)*. \n
-\[2022\/10\]~~\"{{<u>Learning dynamic compact memory embedding for deformable visual object tracking</u>}}\" has been accepted by *EEE Transactions on Neural Networks and Learning Systems (TNNLS)*. \n
+
 
 == Bio
 Wang Yu (王煜) is currently an associate professor at Tianjin University (TJU) and Tianjin Key Laboratory of Machine Learning led by Prof. [http://cic.tju.edu.cn/faculty/huqinghua/index.html Hu Qinghua (胡清华)]. He received BA, ME, and Ph.D degrees from Tianjin University. His researches lie in data mining and machine learning in artificial intelligence, including multi-granularity classification, open-set recognition, incremental learning, and their applications to image classification and fault diagnosis of complex systems. He has published many papers in highly regarded journals and conferences, such as IEEE TPAMI, IEEE TKDE, IEEE TNNLS, IEEE TCYB, etc.
