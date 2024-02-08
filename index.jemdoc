@@ -37,6 +37,20 @@ Wang Yu (王煜) is currently an associate professor at Tianjin University (TJU)
 \[*TPAMI* \<span style=\"color: blue\"\> CCF A\<\/span\>\]~~\n{{<u>Class-specific semantic reconstruction for open set recognition</u>}} \n IEEE Transactions on Pattern Analysis and Machine Intelligence (2023). \n Hongzhi Huang, *Yu Wang\** Qinghua Hu*, and Ming-Ming Cheng. \n \[[https://arxiv.org/pdf/2207.02158.pdf Paper]\] \[[https://github.com/xyzedd/CSSR Code]\]
 ~~~
 
+~~~
+{}{img_left}{indexpic/aaai24_junxian.png}{alt text}{280}{115}{indexpic/aaai24_junxian.png}
+\[*AAAI* \<span style=\"color: blue\"\> CCF A\<\/span\>\]~~\n{{<u>Exploring diverse representations for open set recognition</u>}} \n Proceedings of the AAAI Conference on Artificial Intelligence (2024). \n *Yu Wang* Junxian Mu, Pengfei Zhu, and Qinghua Hu. \n \[[https://arxiv.org/pdf/2401.06521.pdf Paper]\] \[[https://github.com/Vanixxz/MEDAF Code]\]
+~~~
+
+~~~
+{}{img_left}{indexpic/aaai24_fanyan.png}{alt text}{280}{115}{indexpic/aaai24_fanyan.png}
+\[*AAAI* \<span style=\"color: blue\"\> CCF A\<\/span\>\]~~\n{{<u>Dynamic sub-graph distillation for robust semi-supervised continual learning</u>}} \n Proceedings of the AAAI Conference on Artificial Intelligence (2024). \n Yan Fan, *Yu Wang\**, Pengfei Zhu, and Qinghua Hu. \n \[[https://arxiv.org/pdf/2312.16409.pdf Paper]\] \[[https://github.com/fanyan0411/DSG Code]\]
+~~~
+
+~~~
+{}{img_left}{indexpic/aaai24_wangqian.png}{alt text}{280}{115}{indexpic/aaai24_wangqian.png}
+\[*AAAI* \<span style=\"color: blue\"\> CCF A\<\/span\>\]~~\n{{<u>Every node is different: dynamically fusing self-supervised tasks for attributed graph clustering</u>}} \n Proceedings of the AAAI Conference on Artificial Intelligence (2024). \n Pengfei Zhu, Qian Wang, *Yu Wang\**, Jialu Li, and Qinghua Hu. \n \[[https://arxiv.org/pdf/2401.06595.pdf Paper]\] \[[https://github.com/q086/DyFSS Code]\]
+~~~
 
 ~~~
 {}{img_left}{indexpic/tkde22.png}{alt text}{280}{115}{indexpic/tkde22.png}
