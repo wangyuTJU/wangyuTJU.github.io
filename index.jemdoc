@@ -39,7 +39,7 @@ Wang Yu (王煜) is currently an associate professor at Tianjin University (TJU)
 
 ~~~
 {}{img_left}{indexpic/aaai24_junxian.png}{alt text}{280}{115}{indexpic/aaai24_junxian.png}
-\[*AAAI* \<span style=\"color: blue\"\> CCF A\<\/span\>\]~~\n{{<u>Exploring diverse representations for open set recognition</u>}} \n Proceedings of the AAAI Conference on Artificial Intelligence (2024). \n *Yu Wang* Junxian Mu, Pengfei Zhu, and Qinghua Hu. \n \[[https://arxiv.org/pdf/2401.06521.pdf Paper]\] \[[https://github.com/Vanixxz/MEDAF Code]\]
+\[*AAAI* \<span style=\"color: blue\"\> CCF A\<\/span\>\]~~\n{{<u>Exploring diverse representations for open set recognition</u>}} \n Proceedings of the AAAI Conference on Artificial Intelligence (2024). \n *Yu Wang*, Junxian Mu, Pengfei Zhu, and Qinghua Hu. \n \[[https://arxiv.org/pdf/2401.06521.pdf Paper]\] \[[https://github.com/Vanixxz/MEDAF Code]\]
 ~~~
 
 ~~~
@@ -47,10 +47,6 @@ Wang Yu (王煜) is currently an associate professor at Tianjin University (TJU)
 \[*AAAI* \<span style=\"color: blue\"\> CCF A\<\/span\>\]~~\n{{<u>Dynamic sub-graph distillation for robust semi-supervised continual learning</u>}} \n Proceedings of the AAAI Conference on Artificial Intelligence (2024). \n Yan Fan, *Yu Wang\**, Pengfei Zhu, and Qinghua Hu. \n \[[https://arxiv.org/pdf/2312.16409.pdf Paper]\] \[[https://github.com/fanyan0411/DSG Code]\]
 ~~~
 
-~~~
-{}{img_left}{indexpic/aaai24_wangqian.png}{alt text}{280}{115}{indexpic/aaai24_wangqian.png}
-\[*AAAI* \<span style=\"color: blue\"\> CCF A\<\/span\>\]~~\n{{<u>Every node is different: dynamically fusing self-supervised tasks for attributed graph clustering</u>}} \n Proceedings of the AAAI Conference on Artificial Intelligence (2024). \n Pengfei Zhu, Qian Wang, *Yu Wang\**, Jialu Li, and Qinghua Hu. \n \[[https://arxiv.org/pdf/2401.06595.pdf Paper]\] \[[https://github.com/q086/DyFSS Code]\]
-~~~
 
 ~~~
 {}{img_left}{indexpic/tkde22.png}{alt text}{280}{115}{indexpic/tkde22.png}
@@ -66,6 +62,11 @@ Wang Yu (王煜) is currently an associate professor at Tianjin University (TJU)
 ~~~
 {}{img_left}{indexpic/tnnls22.png}{alt text}{280}{115}{indexpic/tnnls22.png}
 \[*TNNLS* \<span style=\"color: blue\"\> CAS-JCR (中科院分区) Q1 Top\<\/span\>\]~~\n{{<u>Collaborative decision-reinforced self-supervision for attributed graph clustering</u>}} \n IEEE Transactions on Neural Networks and Learning Systems (2022). \n Pengfei Zhu, Jialu Li, *Yu Wang\**, Bin Xiao, Shuai Zhao, and Qinghua Hu. \n \[[https://ieeexplore.ieee.org/document/9777842 Paper]\] \[[https://github.com/Jillian555/TNNLS_CDRS Code]\]
+~~~
+
+~~~
+{}{img_left}{indexpic/aaai24_wangqian.png}{alt text}{280}{115}{indexpic/aaai24_wangqian.png}
+\[*AAAI* \<span style=\"color: blue\"\> CCF A\<\/span\>\]~~\n{{<u>Every node is different: dynamically fusing self-supervised tasks for attributed graph clustering</u>}} \n Proceedings of the AAAI Conference on Artificial Intelligence (2024). \n Pengfei Zhu, Qian Wang, *Yu Wang\**, Jialu Li, and Qinghua Hu. \n \[[https://arxiv.org/pdf/2401.06595.pdf Paper]\] \[[https://github.com/q086/DyFSS Code]\]
 ~~~
 
 ~~~
