@@ -10,6 +10,8 @@ E-mail: /wang.yu AT tju.edu.cn/ \n
 ~~~
 
 == News!
+[2024\/04\]~~\"{{<u>Socialized learning: making each other better through multi-agent collaboration</u>}}\" has been accepted by *International Conference on Machine Learning (ICML)*. \n
+[2024\/04\]~~\"{{<u>Integrated heterogeneous graph attention network for incomplete multi-modal clustering</u>}}\" has been published on *International Journal of Computer Vision (IJCV)*. \n
 [2024\/02\]~~\"{{<u>Multi-view deep subspace clustering networks</u>}}\" has been published on *IEEE Transactions on Cybernetics (TCYB)*. \n
 [2024\/01\]~~\"{{<u>Exploring diverse representations for open set recognition</u>}}\" has been published on *Proceedings of the AAAI Conference on Artificial Intelligence (AAAI)*. \n
 [2024\/01\]~~\"{{<u>Every node is different: dynamically fusing self-supervised tasks for attributed graph clustering</u>}}\" has been published on *Proceedings of the AAAI Conference on Artificial Intelligence (AAAI)*. \n
@@ -21,8 +23,6 @@ E-mail: /wang.yu AT tju.edu.cn/ \n
 \[2023\/06\]~~Our team has won the *runner up of CVPR 2023 Continual Learning Challenge*. \n
 \[2023\/04\]~~\"{{<u>Class-specific semantic reconstruction for open set recognition</u>}}\" has been published on *IEEE Transactions on Pattern Analysis and Machine Intelligence (TPAMI)*. \n
 \[2023\/04\]~~\"{{<u>Multi-granularity regularized re-balancing for class incremental learning</u>}}\" has been published on *IEEE Transactions on Knowledge and Data Engineering (TKDE)*. \n
-\[2023\/02\]~~\"{{<u>Hierarchical semantic risk minimization for large-scale classification</u>}}\" has been published on *IEEE Transactions on Cybernetics (TCYB)*.\n
-
 
 == Bio
 Wang Yu (王煜) is currently an associate professor at Tianjin University (TJU) and Tianjin Key Laboratory of Machine Learning led by Prof. [http://cic.tju.edu.cn/faculty/huqinghua/index.html Hu Qinghua (胡清华)]. He received BA, ME, and Ph.D degrees from Tianjin University. His researches lie in data mining and machine learning in artificial intelligence, including multi-granularity classification, open-set recognition, incremental learning, and their applications to image classification and fault diagnosis of complex systems. He has published many papers in highly regarded journals and conferences, such as IEEE TPAMI, IEEE TKDE, IEEE TNNLS, IEEE TCYB, etc.
@@ -36,6 +36,12 @@ Wang Yu (王煜) is currently an associate professor at Tianjin University (TJU)
 {}{img_left}{indexpic/tpami22.png}{alt text}{280}{115}{indexpic/tpami22.png}
 \[*TPAMI* \<span style=\"color: blue\"\> CCF A\<\/span\>\]~~\n{{<u>Class-specific semantic reconstruction for open set recognition</u>}} \n IEEE Transactions on Pattern Analysis and Machine Intelligence (2023). \n Hongzhi Huang, *Yu Wang\** Qinghua Hu*, and Ming-Ming Cheng. \n \[[https://arxiv.org/pdf/2207.02158.pdf Paper]\] \[[https://github.com/xyzedd/CSSR Code]\]
 ~~~
+
+~~~
+{}{img_left}{indexpic/ijcv24.png}{alt text}{280}{115}{indexpic/ijcv24.png}
+\[*IJCV* \<span style=\"color: blue\"\> CCF A\<\/span\>\]~~\n{{<u>Integrated heterogeneous graph attention network for incomplete multi-modal clustering</u>}} \n International Journal of Computer Vision (2024). \n *Yu Wang*, Xinjie Yao, Pengfei Zhu\*, Weihao Li, Meng Cao, and Qinghua Hu. \n \[[https://link.springer.com/article/10.1007/s11263-024-02066-y Paper]\] \[[https://github.com/yxjdarren/IHGAT Code]\]
+~~~
+
 
 ~~~
 {}{img_left}{indexpic/aaai24_junxian.png}{alt text}{280}{115}{indexpic/aaai24_junxian.png}
